@@ -49,9 +49,9 @@ Top Menu: Runtime ➔ Change runtime type ➔ Hardware accelerator: [ T4 GPU ] �
 
 ---
 
-## ▶️ Step 3: Run `run_compyui.ipynb` and Open ComfyUI
+## ▶️ Step 3: Run `run_comfyui.ipynb` and Open ComfyUI
 
-1. Scroll through **`run_compyui.ipynb`** and click the **Play button (`▶`)** on the left side of each code cell from top to bottom *(or click **Runtime ➔ Run all** in the top menu)*.
+1. Scroll through **`run_comfyui.ipynb`** and click the **Play button (`▶`)** on the left side of each code cell from top to bottom *(or click **Runtime ➔ Run all** in the top menu)*.
 2. If Google Colab shows a warning saying *"This notebook was not authored by Google"*, click **Run anyway**.
 3. **Wait for Setup & Model Downloads (approx. 3–5 minutes):**
    * The notebook will install ComfyUI, download the required checkpoints/models, and start the ComfyUI server.
