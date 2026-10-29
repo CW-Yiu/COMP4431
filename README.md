@@ -17,7 +17,7 @@ Welcome to the hands-on ComfyUI workshop! In this guide, you will learn how to l
 
 ## 🚀 Step 1: Open the Notebook in Google Colab
 
-You can open `run_compyui.ipynb` in Google Colab using **either** of the two methods below:
+You can open `run_comfyui.ipynb` in Google Colab using **either** of the two methods below:
 
 ### Method A: One-Click Badge (Fastest)
 1. Click the blue **Open in Colab** badge at the top of this page.
@@ -27,7 +27,7 @@ You can open `run_compyui.ipynb` in Google Colab using **either** of the two met
 1. Go to [https://colab.research.google.com/](https://colab.research.google.com/).
 2. In the pop-up window (or via **File ➔ Open notebook**), click the **GitHub** tab on the left.
 3. Paste the URL of this GitHub repository into the search bar and press **Enter**.
-4. Click on **`run_compyui.ipynb`** to open it.
+4. Click on **`run_comfyui.ipynb`** to open it.
 
 ---
 
