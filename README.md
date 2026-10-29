@@ -10,7 +10,7 @@ Welcome to the hands-on ComfyUI workshop! In this guide, you will learn how to l
 
 | File Name | Description |
 | :--- | :--- |
-| 📓 **`run_compyui.ipynb`** | The Google Colab notebook that installs ComfyUI, downloads the AI models, and creates a public web link. |
+| 📓 **`run_comfyui.ipynb`** | The Google Colab notebook that installs ComfyUI, downloads the AI models, and creates a public web link. |
 | 📄 **`t2i.json`** | The **Text-to-Image (T2I)** ComfyUI workflow file you will import into the ComfyUI canvas. |
 
 ---
