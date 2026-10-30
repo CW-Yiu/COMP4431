@@ -2,7 +2,7 @@
 
 Welcome to the hands-on ComfyUI workshop! In this guide, you will learn how to launch **ComfyUI** on a free cloud **NVIDIA T4 GPU (16GB VRAM)** using Google Colab, and how to import our pre-built **Text-to-Image (`t2i.json`)** workflow directly from this GitHub repository.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/blob/main/run_compyui.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CW-Yiu/COMP4431/blob/main/run_comfyui.ipynb)
 
 ---
 
