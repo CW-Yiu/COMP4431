@@ -60,7 +60,7 @@ Top Menu: Runtime ➔ Change runtime type ➔ Hardware accelerator: [ T4 GPU ] �
    ```text
    To see the GUI go to: https://xxxx-xxxx-xxxx.trycloudflare.com
    ```
-   * Click that link to open the **ComfyUI visual workspace** in a new browser tab!
+   * Copy and paste that link to open the **ComfyUI visual workspace** in a new browser tab!
    * ⚠️ **Important:** Keep your Google Colab tab open and running in the background while using ComfyUI.
 
 ---
